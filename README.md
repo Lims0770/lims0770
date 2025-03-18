@@ -20,7 +20,4 @@ Cybersecurity Technology student specializing in offensive security, penetration
 - Hack4U.io - Python Ofensivo 2024 
 - Hack4U.io - Introducción al Hacking 2025 
 
-# Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:tucorreo@ejemplo.com)  
 ---
